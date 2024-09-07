@@ -1,0 +1,15 @@
+/*
+ * Custom styles
+ */
+
+body,code[class*=language-],pre[class*=language-] {
+    font-family: "JetBrains Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+a.token.url-link:hover {
+    font-size: 1.13em;
+    font-weight: bold;
+}

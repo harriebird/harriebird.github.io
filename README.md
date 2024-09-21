@@ -1,5 +1,5 @@
 # harriebird.github.io
-harriebird's website hosted in GitHub Pages.
+The code behind the site [harriebird.xyz](https://harriebird.xyz).
 
 ## License
 Code released under the [MIT License](LICENSE)

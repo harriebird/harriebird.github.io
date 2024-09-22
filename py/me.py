@@ -1,4 +1,6 @@
 # About me file
+# by Paul Harriet Asiñero
+
 me = {
     "name": "Paul Harriet Asiñero",
     "github": "https://github.com/harriebird/",

@@ -5,8 +5,14 @@
     <title>Yet Another Software Engineer | harriebird</title>
     <meta name="description"
           content="Welcome to the website of Paul Harriet Asiñero. An awesome Yet Another Software Engineer from the Philippines. He loves FOSS, Linux, and Community.">
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Yet Another Software Engineer | harriebird">
+    <meta property="og:description"
+          content="Welcome to the website of Paul Harriet Asiñero. An awesome Yet Another Software Engineer from the Philippines. He loves FOSS, Linux, and Community.">
+    <meta property="og:image" content="https://harriebird.xyz/static/img/cover.jpg">
+
     <meta name="robots" content="index, follow">
-    
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -19,15 +25,31 @@
 <body>
     <div class="container mt-5">
         <ul class="nav nav-tabs" id="ide-tab" role="tablist">
-            <li class="nav-item" role="presentation">
+            <li class="nav-item active" role="presentation">
                 <button class="nav-link active" id="about-me-tab" data-bs-toggle="tab" data-bs-target="#about-me" type="button"
                         role="tab" aria-controls="about-me" aria-selected="true">me.py
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="achievements-tab" data-bs-toggle="tab" data-bs-target="#achievements" type="button"
+                        role="tab" aria-controls="achievements" aria-selected="true">achievements.py
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="works-tab" data-bs-toggle="tab" data-bs-target="#works" type="button"
+                        role="tab" aria-controls="works" aria-selected="true">works.py
                 </button>
             </li>
         </ul>
         <div class="tab-content">
             <div class="tab-pane fade show active" id="about-me" role="tabpanel" aria-labelledby="about-me-tab">
                 <pre data-src="py/me.py"></pre>
+            </div>
+            <div class="tab-pane fade" id="achievements" role="tabpanel" aria-labelledby="achievements-tab">
+                <pre data-src="py/achievements.py"></pre>
+            </div>
+            <div class="tab-pane fade" id="works" role="tabpanel" aria-labelledby="works-tab">
+                <pre data-src="py/works.py"></pre>
             </div>
         </div>
     </div>

@@ -3,6 +3,11 @@
 
 achievements = [
     {
+        "name": "Level 2 Contributor in Hacktoberfest 2024",
+        "org": "DigitalOcean",
+        "link": "https://www.holopin.io/userbadge/cm3moqaxa52610cl19aqjzdgr"
+    },
+    {
         "name": "Passed AWS Certified Solutions Architect - Associate Exam",
         "org": "Amazon Web Services",
         "link": "https://cp.certmetrics.com/amazon/en/public/verify/credential/VTQ6MNK2XFV412S4"

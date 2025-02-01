@@ -8,11 +8,6 @@ me = {
     "medium": "https://medium.com/@harriebird",
     "groups": [
         {
-            "name": "Weblate",
-            "role": "Contributor",
-            "link": "https://weblate.org/en/"
-        },
-        {
             "name": "Django Girls CDO",
             "role": "Workshop Coach",
             "link": "https://www.facebook.com/djangogirlscdo"

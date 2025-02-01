@@ -13,3 +13,7 @@ a.token.url-link:hover {
     font-size: 1.13em;
     font-weight: bold;
 }
+
+.nav-tabs button.nav-link.active {
+    border-bottom: 6px solid #6ea8fe;
+}

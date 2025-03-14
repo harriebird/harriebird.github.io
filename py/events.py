@@ -3,6 +3,18 @@
 
 events_attended = [
     {
+        "name": "FOSSASIA Summit 2025",
+        "role": "Participant",
+        "venue": "True Digital Park West, Phra Khanong District, Bangkok, Thailand",
+        "date": "March 13-15, 2025"
+    },
+    {
+        "name": "PyCon APAC 2025",
+        "role": "Django Girls Workshop Coach / Participant",
+        "venue": "Ateneo de Manila University, Quezon City",
+        "date": "March 1-2, 2025"
+    },
+    {
         "name": "Cybersec Asia X TICW 2025",
         "role": "Participant",
         "venue": "Queen Sirikit National Convention Center, Bangkok, Thailand",

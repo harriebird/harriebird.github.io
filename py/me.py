@@ -6,6 +6,7 @@ me = {
     "github": "https://github.com/harriebird/",
     "linkedin": "https://www.linkedin.com/in/harriebird",
     "medium": "https://medium.com/@harriebird",
+    "youtube": "https://www.youtube.com/@harriebird",
     "groups": [
         {
             "name": "Django Girls CDO",

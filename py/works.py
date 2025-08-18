@@ -7,6 +7,10 @@ works = [
         "link": "https://github.com/harriebird/malaybalay-covid"
     },
     {
+        "name": "ESP32 Web Temperature",
+        "link": "https://github.com/harriebird/esp32-web-temp"
+    },
+    {
         "name": "Apple Kanser",
         "link": "https://github.com/harriebird/apple-kanser"
     },

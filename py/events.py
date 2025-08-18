@@ -3,6 +3,18 @@
 
 events_attended = [
     {
+        "name": "COSCUP 2025",
+        "role": "Speaker",
+        "venue": "National Taiwan University of Science and Technology, Taipei, Taiwan",
+        "date": "August 9-10, 2025"
+    },
+    {
+        "name": "Django Girls CDO 2025 Workshop",
+        "role": "Workshop Coach",
+        "venue": "USTP, Cagayan de Oro",
+        "date": "July 5, 2025"
+    },
+    {
         "name": "FOSSASIA Summit 2025",
         "role": "Participant",
         "venue": "True Digital Park West, Phra Khanong District, Bangkok, Thailand",

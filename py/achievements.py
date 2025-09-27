@@ -3,6 +3,11 @@
 
 achievements = [
     {
+        "name": "Completed Getting Started with OpenTofu",
+        "org": "The Linux Foundation",
+        "link": "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/c2b6b173-67c0-4e98-ae31-89ca3072bfb1-paul-harriet-asiero-d4151eb2-8bea-4718-aef5-90a8c464f045-certificate.pdf"
+    },
+    {
         "name": "Level 2 Contributor in Hacktoberfest 2024",
         "org": "DigitalOcean",
         "link": "https://www.holopin.io/userbadge/cm3moqaxa52610cl19aqjzdgr"

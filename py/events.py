@@ -3,6 +3,12 @@
 
 events_attended = [
     {
+        "name": "Software Freedom Day Bukidnon 2025",
+        "role": "Lead Organizer",
+        "venue": "People's Hall, City Hall, Malaybalay City, Bukidnon",
+        "date": "September 20, 2025"
+    },
+    {
         "name": "COSCUP 2025",
         "role": "Speaker",
         "venue": "National Taiwan University of Science and Technology, Taipei, Taiwan",

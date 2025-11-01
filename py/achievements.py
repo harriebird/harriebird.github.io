@@ -3,6 +3,16 @@
 
 achievements = [
     {
+        "name": "Oracle Cloud Infrastructure 2025 Certified Generative AI Professional",
+        "org": "Oracle",
+        "link": "https://catalog-education.oracle.com/ords/certview/sharebadge?id=7E33BBA72A36B75CE818195701EDBDBEFDC92174C6A34FAE8033743E9D3FB62A"
+    },
+    {
+        "name": "Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate",
+        "org": "Oracle",
+        "link": "https://catalog-education.oracle.com/ords/certview/sharebadge?id=2F246789E7FE8A24F7B186327BD8DF354B279DE1023FEA9D08ACE790B37AE7B9"
+    },
+    {
         "name": "Completed Getting Started with OpenTofu",
         "org": "The Linux Foundation",
         "link": "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/c2b6b173-67c0-4e98-ae31-89ca3072bfb1-paul-harriet-asiero-d4151eb2-8bea-4718-aef5-90a8c464f045-certificate.pdf"

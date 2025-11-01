@@ -3,6 +3,12 @@
 
 events_attended = [
     {
+        "name": "DIGI MC 2025",
+        "role": "Reverse Pitching Mentor / Participant",
+        "venue": "Bukidnon State University, Malaybalay City, Bukidnon",
+        "date": "October 29-31, 2025"
+    },
+    {
         "name": "Software Freedom Day Bukidnon 2025",
         "role": "Lead Organizer",
         "venue": "People's Hall, City Hall, Malaybalay City, Bukidnon",

@@ -23,8 +23,14 @@ events_attended = [
     {
         "name": "Django Girls CDO 2025 Workshop",
         "role": "Workshop Coach",
-        "venue": "USTP, Cagayan de Oro",
+        "venue": "USTP, Cagayan de Oro City",
         "date": "July 5, 2025"
+    },
+    {
+        "name": "Build with AI 2025",
+        "role": "Participant",
+        "venue": "Virtual Grounds Esports, Cagayan de Oro City",
+        "date": "May 18, 2025"
     },
     {
         "name": "FOSSASIA Summit 2025",
@@ -43,6 +49,12 @@ events_attended = [
         "role": "Participant",
         "venue": "Queen Sirikit National Convention Center, Bangkok, Thailand",
         "date": "January 22-23, 2025"
+    },
+    {
+        "name": "Devfest Cagayan de Oro 2024",
+        "role": "Participant",
+        "venue": "Liceo de Cagayan University, Cagayan de Oro City",
+        "date": "November 16, 2024"
     },
     {
         "name": "TAITRONICS & AIoT Taiwan 2024",
@@ -145,6 +157,12 @@ events_attended = [
         "role": "Workshop Coach",
         "venue": "DICT Training Hall, Cagayan de Oro",
         "date": "January 19, 2019"
+    },
+    {
+        "name": "GDG CDO DevFest '18",
+        "role": "Participant",
+        "venue": "N Hotel, Cagayan de Oro City",
+        "date": "November 17, 2018"
     },
     {
         "name": "DevCon Summit 2018",

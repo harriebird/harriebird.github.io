@@ -10,7 +10,7 @@
     <meta property="og:title" content="Yet Another Software Engineer | harriebird">
     <meta property="og:description"
           content="Welcome to the website of Paul Harriet Asiñero. An awesome Yet Another Software Engineer from the Philippines. He loves FOSS, Linux, and Community.">
-    <meta property="og:image" content="https://harriebird.xyz/static/img/cover.jpg">
+    <meta property="og:image" content="https://harriebird.xyz/static/img/christmas-greeting.jpg">
 
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -53,6 +53,12 @@
                     events.py
                 </button>
             </li>
+            <li class="nav-item" role="presentation">
+                <a class="nav-link icon-link icon-link-hover" href="https://github.com/sponsors/harriebird" target="_blank">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="bi" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314"/></svg>
+                    sponsor.png
+                </a>
+            </li>
         </ul>
         <div class="tab-content line-numbers">
             <div class="tab-pane fade show active" id="about-me" role="tabpanel" aria-labelledby="about-me-tab">
@@ -69,6 +75,31 @@
             </div>
         </div>
     </div>
+    <div class="modal" id="sponsor-modal" tabindex="-1">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Season's Greetings!</h5>
+                </div>
+                <div class="modal-body">
+                    <figure class="figure">
+                        <img class="img-fluid" src="/static/img/christmas-greeting.jpg" alt="Merry Christmas by Chotwarut Loathikulthanan from vecteezy.com"/>
+                        <figcaption class="figure-caption"><small><a href="https://www.vecteezy.com/vector-art/3459255-christmas-party-with-santa-claus-and-friends-merry-christmas" target="_blank">Merry Christmas</a> by <a href="https://www.vecteezy.com/members/chotwarut" target="_blank">Chotwarut Loathikulthanan</a> from <a href="https://www.vecteezy.com" target="_blank">vecteezy.com</a></small></figcaption>
+                    </figure>
+                    <p>Wazzup Yo! The year 2025 is about to end. Despite the challenges, we made it! May the Universe bring us peace and abundance. Looking forward to an awesome year 2026 to all of us hommies!</p>
+                    <p>Wanna share some love?</p>
+                    <a type="button" class="btn btn-outline-danger btn-lg icon-link icon-link-hover"  href="https://github.com/sponsors/harriebird" target="_blank">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="bi" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314"/></svg>
+                        Sponsor harriebird
+                    </a>
+                    <p class="mt-4">-harriebird</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Got it!</button>
+                </div>
+            </div>
+        </div>
+    </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
             crossorigin="anonymous"></script>
@@ -81,6 +112,9 @@
       gtag('js', new Date());
 
       gtag('config', 'G-R1F8SE57CB');
+      greetingModal = new bootstrap.Modal('#sponsor-modal')
+      greetingModal.show()
     </script>
+    <script src="/static/js/snowflakes.auto.min.js"></script>
 </body>
 </html>

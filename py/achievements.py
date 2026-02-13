@@ -3,6 +3,11 @@
 
 achievements = [
     {
+        "name": "Completed Introduction to DevOps and Site Reliability Engineering",
+        "org": "The Linux Foundation",
+        "link": "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/c2b6b173-67c0-4e98-ae31-89ca3072bfb1-paul-harriet-asiero-5a5f3013-732c-4047-82d8-844a622d3db9-certificate.pdf"
+    },
+    {
         "name": "Oracle Cloud Infrastructure 2025 Certified Generative AI Professional",
         "org": "Oracle",
         "link": "https://catalog-education.oracle.com/ords/certview/sharebadge?id=7E33BBA72A36B75CE818195701EDBDBEFDC92174C6A34FAE8033743E9D3FB62A"

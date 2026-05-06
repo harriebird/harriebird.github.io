@@ -15,12 +15,12 @@ me = {
         },
         {
             "name": "PineapplePy",
-            "role": "Member",
+            "role": "Core Member",
             "link": "https://www.facebook.com/pineapplepy.ph"
         },
         {
             "name": "Hackm3",
-            "role": "Member",
+            "role": "Core Member",
             "link": "https://www.facebook.com/hackm3.ph"
         },
     ]

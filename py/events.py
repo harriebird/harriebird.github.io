@@ -3,8 +3,20 @@
 
 events_attended = [
     {
+        "name": "Tech Exhibit 2026",
+        "role": "Speaker",
+        "venue": "Central Mindanao University",
+        "date": "April 30, 2026"
+    },
+    {
+        "name": "SHERTIFIED 2026: Women Building Digital Impact",
+        "role": "Tech for Her Hackathon Mentor",
+        "venue": "New Hotel Valencia, Valencia City, Bukidnon",
+        "date": "March 24-25, 2026"
+    },
+    {
         "name": "DIGI MC 2025",
-        "role": "Reverse Pitching Mentor / Participant",
+        "role": "Reverse Pitching Mentor",
         "venue": "Bukidnon State University, Malaybalay City, Bukidnon",
         "date": "October 29-31, 2025"
     },

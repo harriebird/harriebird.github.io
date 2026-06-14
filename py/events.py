@@ -3,27 +3,39 @@
 
 events_attended = [
     {
+        "name": "National ICT Month 2026 Valencia City",
+        "role": "InnoVa Hackathon Mentor",
+        "venue": "Robinsons Valencia, Valencia City",
+        "date": "June 8-11, 2025"
+    },
+    {
+        "name": "Build with AI 2026",
+        "role": "Participant",
+        "venue": "My Hub Events Place Rental, Cagayan de Oro City",
+        "date": "May 16, 2026"
+    },
+    {
         "name": "Tech Exhibit 2026",
         "role": "Speaker",
-        "venue": "Central Mindanao University",
+        "venue": "Central Mindanao University, Maramag",
         "date": "April 30, 2026"
     },
     {
         "name": "SHERTIFIED 2026: Women Building Digital Impact",
         "role": "Tech for Her Hackathon Mentor",
-        "venue": "New Hotel Valencia, Valencia City, Bukidnon",
+        "venue": "New Hotel Valencia, Valencia City",
         "date": "March 24-25, 2026"
     },
     {
         "name": "DIGI MC 2025",
         "role": "Reverse Pitching Mentor",
-        "venue": "Bukidnon State University, Malaybalay City, Bukidnon",
+        "venue": "Bukidnon State University, Malaybalay City",
         "date": "October 29-31, 2025"
     },
     {
         "name": "Software Freedom Day Bukidnon 2025",
         "role": "Lead Organizer",
-        "venue": "People's Hall, City Hall, Malaybalay City, Bukidnon",
+        "venue": "People's Hall, City Hall, Malaybalay City",
         "date": "September 20, 2025"
     },
     {
@@ -89,13 +101,13 @@ events_attended = [
     {
         "name": "PyConf Mini Davao 2024",
         "role": "Speaker",
-        "venue": "Ateneo de Davao University",
+        "venue": "Ateneo de Davao University, Davao City",
         "date": "September 26, 2024"
     },
     {
         "name": "Django Girls CDO 2024 Workshop",
         "role": "Workshop Coach",
-        "venue": "DICT Training Hall, Cagayan de Oro",
+        "venue": "DICT Training Hall, Cagayan de Oro City",
         "date": "March 9, 2024"
     },
     {
@@ -107,7 +119,7 @@ events_attended = [
     {
         "name": "Django Girls CDO 2023 Workshop",
         "role": "Workshop Coach",
-        "venue": "DICT Training Hall, Cagayan de Oro",
+        "venue": "DICT Training Hall, Cagayan de Oro City",
         "date": "March 4, 2023"
     },
     {
@@ -125,31 +137,31 @@ events_attended = [
     {
         "name": "Django Girls CDO goes to Iligan City",
         "role": "Workshop Coach, Co-organizer",
-        "venue": "MSU - Iligan Institute of Technology",
+        "venue": "MSU - Iligan Institute of Technology, Iligan City",
         "date": "January 25, 2020"
     },
     {
         "name": "Software Freedom Day Iligan 2019",
         "role": "Speaker",
-        "venue": "MSU - Iligan Institute of Technology",
+        "venue": "MSU - Iligan Institute of Technology, Iligan City,",
         "date": "September 21, 2019"
     },
     {
         "name": "Django Girls CDO goes to Bukidnon",
         "role": "Workshop Coach",
-        "venue": "Central Mindanao University",
+        "venue": "Central Mindanao University, Maramag",
         "date": "August 17, 2019"
     },
     {
         "name": "Campus DevCon @ CU",
         "role": "Speaker",
-        "venue": "Capitol University",
+        "venue": "Capitol University, Cagayan de Oro City",
         "date": "August 10, 2019"
     },
     {
         "name": "alert(‘Cybersecurity Awareness’);",
         "role": "Speaker",
-        "venue": "Northern Bukidnon Community College",
+        "venue": "Northern Bukidnon Community College, Manolo Fortich",
         "date": "March 8, 2019"
     },
     {
@@ -161,13 +173,13 @@ events_attended = [
     {
         "name": "ICT Week 2019",
         "role": "Speaker",
-        "venue": "Bukidnon State University",
+        "venue": "Bukidnon State University, Malaybalay City",
         "date": "February 1, 2019"
     },
     {
         "name": "Django Girls CDO 2019 Workshop",
         "role": "Workshop Coach",
-        "venue": "DICT Training Hall, Cagayan de Oro",
+        "venue": "DICT Training Hall, Cagayan de Oro City",
         "date": "January 19, 2019"
     },
     {
@@ -179,25 +191,25 @@ events_attended = [
     {
         "name": "DevCon Summit 2018",
         "role": "Panelist",
-        "venue": "Mini Theater, Capitol University",
+        "venue": "Mini Theater, Capitol University, Cagayan de Oro City",
         "date": "November 10, 2018"
     },
     {
         "name": "Django Girls CDO 2018 Workshop",
         "role": "Workshop Coach",
-        "venue": "DICT Training Hall, Cagayan de Oro",
+        "venue": "DICT Training Hall, Cagayan de Oro City",
         "date": "June 30, 2018"
     },
     {
         "name": "Campus DevCon @ MSU - IIT",
         "role": "Speaker",
-        "venue": "MSU - Iligan Institute of Technology",
+        "venue": "MSU - Iligan Institute of Technology, Iligan City",
         "date": "May 5, 2018"
     },
     {
         "name": "1st PyTsada RoadCamp",
         "role": "Speaker",
-        "venue": "Mindanao State University - Naawan",
+        "venue": "Mindanao State University - Naawan, Naawan",
         "date": "April 7, 2018"
     },
     {
@@ -209,7 +221,7 @@ events_attended = [
     {
         "name": "SCS Developer and Cybersecurity Workshop",
         "role": "Speaker",
-        "venue": "MSU - Iligan Institute of Technology",
+        "venue": "MSU - Iligan Institute of Technology, Iligan",
         "date": "December 10, 2017"
     }
 ]

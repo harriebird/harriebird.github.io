@@ -7,16 +7,16 @@ works = [
         "link": "https://github.com/harriebird/dok-alalai"
     },
     {
+        "name": "Breaking Bad RAG",
+        "link": "https://github.com/harriebird/breaking-bad-rag"
+    },
+    {
         "name": "DocVision",
         "link": "https://github.com/harriebird/docvision"
     },
     {
         "name": "Malaybalay City COVID-19 Dashboard",
         "link": "https://github.com/harriebird/malaybalay-covid"
-    },
-    {
-        "name": "Doc Vision",
-        "link": "https://github.com/harriebird/doc-vision"
     },
     {
         "name": "ESP32 Web Temperature",

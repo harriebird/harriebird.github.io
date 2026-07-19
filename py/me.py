@@ -9,6 +9,16 @@ me = {
     "youtube": "https://www.youtube.com/@harriebird",
     "groups": [
         {
+            "name": "Digital Freedom Foundation",
+            "role": "Board Member",
+            "link": "https://digitalfreedoms.org/en/dff"
+        },
+        {
+            "name": "Django Software Foundation",
+            "role": "Individual Member",
+            "link": "https://www.djangoproject.com/foundation/individual-members/"
+        },
+        {
             "name": "Django Girls CDO",
             "role": "Workshop Coach",
             "link": "https://www.facebook.com/djangogirlscdo"

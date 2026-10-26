@@ -3,10 +3,40 @@
 
 events_attended = [
     {
+        "name": "BUKCODENON 2: Tech Arena",
+        "role": "Judge",
+        "venue": "Northern Bukidnon State College, Manolo Fortich",
+        "date": "September 24, 2026"
+    },
+    {
+        "name": "Software Freedom Day Bukidnon 2026",
+        "role": "Lead Organizer/Speaker",
+        "venue": "Northern Bukidnon State College, Manolo Fortich",
+        "date": "September 19, 2026"
+    },
+    {
+        "name": "IOx Meetup 2026",
+        "role": "Participant",
+        "venue": "USTP, Cagayan de Oro City",
+        "date": "September 5, 2026"
+    },
+    {
+        "name": "Academic Fora 2026",
+        "role": "Speaker",
+        "venue": "San Isidro College, Malaybalay City",
+        "date": "August 27, 2026"
+    },
+    {
+        "name": "COSCUP 2026",
+        "role": "Participant",
+        "venue": "National Taiwan University of Science and Technology, Taipei, Taiwan",
+        "date": "August 8-9, 2026"
+    },
+    {
         "name": "National ICT Month 2026 Valencia City",
         "role": "InnoVa Hackathon Mentor",
         "venue": "Robinsons Valencia, Valencia City",
-        "date": "June 8-11, 2025"
+        "date": "June 8-11, 2026"
     },
     {
         "name": "Build with AI 2026",

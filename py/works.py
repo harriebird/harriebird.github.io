@@ -19,6 +19,10 @@ works = [
         "link": "https://github.com/harriebird/malaybalay-covid"
     },
     {
+        "name": "pyraffle",
+        "link": "https://github.com/harriebird/pyraffle"
+    },
+    {
         "name": "ESP32 Web Temperature",
         "link": "https://github.com/harriebird/esp32-web-temp"
     },
